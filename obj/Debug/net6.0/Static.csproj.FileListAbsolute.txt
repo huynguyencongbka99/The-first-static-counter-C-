@@ -1,0 +1,15 @@
+Z:\A_Works\Study\SelfLearningC#\WindowFormApps\0_Acadyan\Static\obj\Debug\net6.0\Static.csproj.AssemblyReference.cache
+Z:\A_Works\Study\SelfLearningC#\WindowFormApps\0_Acadyan\Static\obj\Debug\net6.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+Z:\A_Works\Study\SelfLearningC#\WindowFormApps\0_Acadyan\Static\obj\Debug\net6.0\Static.AssemblyInfoInputs.cache
+Z:\A_Works\Study\SelfLearningC#\WindowFormApps\0_Acadyan\Static\obj\Debug\net6.0\Static.AssemblyInfo.cs
+Z:\A_Works\Study\SelfLearningC#\WindowFormApps\0_Acadyan\Static\obj\Debug\net6.0\Static.csproj.CoreCompileInputs.cache
+Z:\A_Works\Study\SelfLearningC#\WindowFormApps\0_Acadyan\Static\bin\Debug\net6.0\Static.exe
+Z:\A_Works\Study\SelfLearningC#\WindowFormApps\0_Acadyan\Static\bin\Debug\net6.0\Static.deps.json
+Z:\A_Works\Study\SelfLearningC#\WindowFormApps\0_Acadyan\Static\bin\Debug\net6.0\Static.runtimeconfig.json
+Z:\A_Works\Study\SelfLearningC#\WindowFormApps\0_Acadyan\Static\bin\Debug\net6.0\Static.dll
+Z:\A_Works\Study\SelfLearningC#\WindowFormApps\0_Acadyan\Static\bin\Debug\net6.0\Static.pdb
+Z:\A_Works\Study\SelfLearningC#\WindowFormApps\0_Acadyan\Static\obj\Debug\net6.0\Static.dll
+Z:\A_Works\Study\SelfLearningC#\WindowFormApps\0_Acadyan\Static\obj\Debug\net6.0\refint\Static.dll
+Z:\A_Works\Study\SelfLearningC#\WindowFormApps\0_Acadyan\Static\obj\Debug\net6.0\Static.pdb
+Z:\A_Works\Study\SelfLearningC#\WindowFormApps\0_Acadyan\Static\obj\Debug\net6.0\Static.genruntimeconfig.cache
+Z:\A_Works\Study\SelfLearningC#\WindowFormApps\0_Acadyan\Static\obj\Debug\net6.0\ref\Static.dll
